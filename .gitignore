@@ -4,5 +4,11 @@ test1.in
 test2.in
 test3.in
 test4.in
-
+test1.out
 test3.out
+ans1
+.gitignore
+ans2
+ans3
+test.in
+test2.out
